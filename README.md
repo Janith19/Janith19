@@ -39,10 +39,4 @@
 
 ---
 
-## 📫 Contact
-- Email: jranasinghe19@gmail.com  
-- LinkedIn: [linkedin.com/in/janithranasinghe1](https://www.linkedin.com/in/janithranasinghe1/)
-- GitHub: [github.com/Janith19](https://github.com/Janith19)
-
----
 
