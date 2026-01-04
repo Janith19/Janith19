@@ -29,7 +29,7 @@
 ## 📌 Featured Projects
 
 ### 🚦 Intelligent Pedestrian Signal System
-> *Recognition at the Road Safety Invention and Innovation Competition 2024, Sri Lanka*
+> *Recognition at the Road Safety Invention and Innovation Competition 2024 Organized by the National Council for Road Safety and the Sri Lanka Inventors Commission.*
 Adaptive traffic lights using **Raspberry Pi** and IoT sensors. We successfully reduced pedestrian wait times using CNN-based detection.
 
 ### 🏠 Jarvis (Home Server Dashboard)
