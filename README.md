@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=2E91FC&center=true&vCenter=true&width=435&lines=Hi%2C+I'm+Janith+%F0%9F%91%8B;Full-Stack+Developer+%F0%9F%92%BB;Building+with+Next.js+%26+IoT;AI+%26+Smart+Home+Enthusiast" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=2E91FC&center=true&vCenter=true&width=435&lines=Hi%2C+I'm+Janith+%F0%9F%91%8B;Full-Stack+Developer+%F0%9F%92%BB;AI+%26+Smart+Home+Enthusiast" alt="Typing SVG" />
 
 <p align="center">
   <b>Passionate about building responsive, interactive, and user-friendly web applications.</b><br>
