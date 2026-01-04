@@ -26,6 +26,13 @@
 
 ---
 
+## 🌟 Highlights
+* **2+ Years Experience** in building interactive web applications.
+* **Specialized** in the MERN stack (MongoDB, Express, React, Node) and Next.js.
+* **Academic Researcher** with published work in IoT and practical AI applications.
+  
+---
+
 ## 📌 Featured Projects
 
 ### 🚦 Intelligent Pedestrian Signal System
@@ -44,7 +51,4 @@ A chess-clock style timer designed for Scrabble players worldwide.
 
 ---
 
-## 🌟 Highlights
-* **2+ Years Experience** in building interactive web applications.
-* **Specialized** in the MERN stack (MongoDB, Express, React, Node) and Next.js.
-* **Academic Researcher** with published work in IoT and practical AI applications.
+
