@@ -33,8 +33,8 @@
 Adaptive traffic lights using **Raspberry Pi** and IoT sensors. We successfully reduced pedestrian wait times using CNN-based detection.
 
 ### 🏠 Jarvis (Home Server Dashboard)
-A frontend interface for managing media, monitoring system health, and controlling dev services on my self-hosted home server.
-* **Tech:** React, Node.js, System Metrics API
+A frontend interface for managing media, monitoring system health, managing storage backups and controlling dev services on my self-hosted home server.
+* **Tech:** React, Node.js, System Metrics API, Ubuntu Server
 
 ### 🖥 Email Allocator
 A Browser extension that visually categorizes Gmail emails with custom labels and colors to boost productivity.
