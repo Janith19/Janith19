@@ -29,7 +29,7 @@ Experience with React, Next.js, Tailwind, and the MERN stack, with hands-on proj
 - Published academic research and practical applications
 
 ---
-[![Janith's GitHub stats](https://github-readme-stats.vercel.app/api?username=Janith19&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+![Janith's GitHub stats](https://github-readme-stats.vercel.app/api?username=Janith19&show_icons=true)
 ---
 ## 📫 Contact
 - Email: jranasinghe19@gmail.com  
